@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DemOpenShift_v2/DemOpenShift_v2/bin/Debug/netcoreapp3.1
+/DemOpenShift_v2/DemOpenShift_v2/obj
+/DemOpenShift_v2/.vs/DemOpenShift_v2/v16
